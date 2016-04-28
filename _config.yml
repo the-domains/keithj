@@ -1,0 +1,28 @@
+name: keithj
+favicon: null
+layout_spectrum: 0.5141267369035631
+typography_spectrum: 0.6055617562960833
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3936942550353706
+  lightness: 0.4336598515510559
+  saturation: 0.9040976872202009
+  rhythmicContrast: 0.7403405441436917
+purpose: []
